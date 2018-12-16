@@ -1,4 +1,4 @@
-## Pizza FullStack
+## Pizza CLI
 
 ### TheNodeJSMasterClass-Homework Assignment 4
 
