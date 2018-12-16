@@ -1,0 +1,76 @@
+{
+  "items" : [
+    {
+       "id" : "01",
+       "type" : "pizza",
+       "name" : "Hawaiian",
+       "price" : 200,
+       "description" : "Pineapple, Ham Slice, Bacon Slice, Mozzarella Cheese, Pizza Sauce",
+       "img": "public/imgs/01.png"
+     },
+     {
+       "id" : "02",
+       "type" : "pizza",
+       "name" : "Seafood Cocktail",
+       "price" : 275,
+       "description" : "Pineapple, Ham Slice, Prawn, Crab Sticks, Mozzarella Cheese, Thousand Island Sauce",
+       "img": "public/imgs/02.png"
+     },
+     {
+       "id" : "03",
+       "type" : "pizza",
+       "name" : "BBQ Chicken",
+       "price" : 250,
+       "description" : "BBQ Chicken, Red&Green Chilli, Mozzarella Cheese, Pizza Sauce",
+       "img": "public/imgs/03.png"
+     },
+     {
+       "id" : "04",
+       "type" : "pizza",
+       "name" : "Italian Sausage",
+       "price" : 225,
+       "description" : "Pepperoni, Mushroom, Onion, Tomato, Italian Sausage, Mozzarella Cheese, Pizza Sauce",
+       "img": "public/imgs/04.png"
+     },
+     {
+       "id" : "05",
+       "type" : "pizza",
+       "name" : "Crab Sticks Cocktail",
+       "price" : 250,
+       "description" : "Parsley sausage, Crab stick, Mozzarella Cheese",
+       "img": "public/imgs/05.png"
+     },
+     {
+       "id" : "06",
+       "type" : "pasta",
+       "name" : "Cheese BBQ Chicken",
+       "price" : 175,
+       "description" : "Baked Fusilli & Cheese with BBQ Chicken",
+       "img": "public/imgs/06.png"
+     },
+     {
+       "id" : "07",
+       "type" : "pasta",
+       "name" : "Cheese Bacon",
+       "price" : 175,
+       "description" : "Baked Fusilli & Cheese with Bacon",
+       "img": "public/imgs/07.png"
+     },
+     {
+       "id" : "08",
+       "type" : "salad",
+       "name" : "Caesar Salad",
+       "price" : 125,
+       "description" : "Fresh lettuces topped with croutons,bacon bits,parmesan cheese tossed in our flavoursome Caesar dressing an all-time favourite that everyone loves.",
+       "img": "public/imgs/08.png"
+     },
+     {
+       "id" : "09",
+       "type" : "salad",
+       "name" : "Shrimp Salad",
+       "price" : 125,
+       "description" : "Plump fresh shrimps with big green leaves,juicy tomatoes,colorful cabbages and carrots and dressed with sesame dressing.",
+       "img": "public/imgs/09.png"
+     }
+  ]
+}
